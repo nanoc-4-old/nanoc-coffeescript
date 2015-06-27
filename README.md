@@ -1,19 +1,3 @@
-[![Build Status](https://travis-ci.org/nanoc/nanoc-coffeescript.png)](https://travis-ci.org/nanoc/nanoc-coffeescript)
-[![Code Climate](https://codeclimate.com/github/nanoc/nanoc-coffeescript.png)](https://codeclimate.com/github/nanoc/nanoc-coffeescript)
-[![Coverage Status](https://coveralls.io/repos/nanoc/nanoc-coffeescript/badge.png?branch=master)](https://coveralls.io/r/nanoc/nanoc-coffeescript)
+This repository was part of the initial attempt at writing nanoc 4. That attempt did not go as initially planned, and was cancelled mid May 2015.
 
-# nanoc-coffeescript
-
-This provides a [CoffeeScript](http://coffeescript.org/) filter for [nanoc](http://nanoc.ws).
-
-## Installation
-
-`gem install nanoc-coffeescript`
-
-## Usage
-
-```ruby
-filter :coffeescript
-```
-
-This filter takes no options.
+Do not despair! There is a _true_ nanoc 4, and it lives in the [nanoc/nanoc repository](http://github.com/nanoc/nanoc). For information about nanoc 4 and how to upgrade, consult the [nanoc 4 upgrade guide](http://nanoc.ws/docs/nanoc-4-upgrade-guide/).
